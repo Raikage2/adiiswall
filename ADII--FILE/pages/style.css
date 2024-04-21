@@ -1,0 +1,97 @@
+header img{
+  margin-top: 20px;
+  margin-left: 50px;
+
+}
+header h1{
+
+  font-display: center;
+padding: 15px;
+margin-top: 0;
+margin-right: 25px;
+
+}
+input[type="text"]{
+  
+    float: inline-end;
+    display: block;
+    background-color: #dddddd;
+    width: 300px;
+  float: right;
+  padding: 15px;
+  border: #000;
+  margin-top: 0;
+  margin-right: 25px;
+  font-size: 17px;
+}
+
+
+  
+
+p{
+  display: block;
+}
+
+
+footer{
+
+  margin-bottom: 0px;
+}
+
+    
+
+
+
+
+main{
+    margin-left: 165px;
+    scrollbar-highlight-color: aquamarine; text-align: center; 
+    margin-top: -350px;
+    
+}
+
+
+hr[footer]{
+  text-align: center;
+  margin-bottom: 0;
+  display: table-footer-group;
+
+}
+
+
+header{
+  vertical-align: auto;
+  text-align: center;
+  display: inline; 
+  text-align: center;
+  margin-top: 0;
+  margin-left: 16px;
+
+  
+}
+
+
+
+body{
+    background-color: antiquewhite;
+}
+ul {
+    list-style-type: none;
+    margin-top: 50px;
+    padding: 0;
+    width: 250px;
+    background-color: antiquewhite;
+  }
+  
+  li a {
+    display: block;
+    color: #000;
+    padding: 16px 32px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    background-color: #9e8a8a;
+    color: rgb(94, 82, 82);
+  }
